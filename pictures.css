@@ -1,0 +1,27 @@
+.block1 img{
+    height: 61.2vh;
+    min-height: 267px;
+}
+#pict2{
+    width: 43vh;
+    min-width: 195px;
+}
+#pict3{
+    width: 48.5vh;
+    min-width: 213px;
+}
+.block2 img{
+    height: 61.2vh;
+    min-height: 267px;
+}
+#pict7{
+    width: 70.8vh;
+    min-width: 311px;
+}
+.block3{
+    text-align: center;
+}
+.block3 img{
+    height: 61.2vh;
+    min-height: 267px;
+}
